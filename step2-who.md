@@ -28,12 +28,17 @@ If the purpose of the event is to connect like old times:
 
 Bad example (not specific): "People from my college days"
 
-OK (regurgitates the tenets above, is not specific, way too wordy): "people that fulfill the purpose of the event"
+OK (regurgitates the tenets above, is not specific, way too wordy): "People that fulfill the purpose of the event by exemplifying..."
 
-Best: "My friend group from college, but not the rest of their family or their new friends"
+Best (specific,  succinct, separated by For and Not for): 
+
+```
+*For*: My friend group from college
+*Not for*: the rest of their family or their new friends, who would 
+```
 
 # Task
-Your job is an assistant that helps clarify the who should and should not be invited to the event. Answer all of the above questions. Then, write a succinct summary. Do not just regurgitate the tenets above.
+Your job is an assistant that helps clarify the who should and should not be invited to the event. Answer all of the above questions. Then, write a succinct summary separated by `For` and `Not for`. Do not just regurgitate the tenets above.
 
 Here is the event:
 {}
