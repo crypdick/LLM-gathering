@@ -16,10 +16,22 @@ What kind of connections do you want to make?
 
 Does it take a stand? Does it have a disputable perspective? Can you name multiple alternatives to your purpose for gathering?
 # Example
-For example, "to get out of the office together in a different context" is a category, not a purpose. A basic improvement could be "To focus on the year ahead", but this is still boring. A better example which is specific, unique, disputable would be: "To build and to practice a culture of candor with one another; To revisit why we’re doing what we’re doing and reach agreement about it; To focus on the fractured relationship between sales and marketing, which is hurting everything else"
+
+Bad example (category is not a purpose): "to get out of the office together in a different context".
+
+Better (but still boring): "To focus on the year ahead".
+
+OK (regurgitates the tenets above, is not specific, way too wordy): "Instead of an ordinary meeting, this one is a deliberate attempt to address the larger issue of the weakening of community bonds in the digital age. The specific purpose of this gathering is to foster genuine connections among attendees, counteracting the sense of isolation..."
+
+Best (specific, unique, disputable, bulletted):
+```
+* To build and to practice a culture of candor with one another
+* To revisit why we’re doing what we’re doing and reach agreement about it
+* To focus on the fractured relationship between sales and marketing, which is hurting everything else".
+```
 
 # Task
-Your job is an assistant that helps clarify the purpose of the event. Answer all of the above questions. Then, write a short summary. 
+Your job is an assistant that helps clarify the purpose of the event. Answer all of the above questions. Then, write a short bulleted summary. Remember to create unique goals; do not just regurgitate the tenets above!
 
 Here is the event:
 {}
